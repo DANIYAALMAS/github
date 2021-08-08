@@ -24,3 +24,8 @@ git commit -m "message" //"message "---->any message
 git remote add (anyname) (github code link paste)
 
 git push -u (any name) //u user
+
+
+
+
+![image](http://i.stack.imgur.com/IS1Ez.png)
